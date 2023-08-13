@@ -19,8 +19,8 @@ Project consists of a simple command line script that walks the user through ide
 ![](https://github.com/jasondasho/Find-IP-Lab/assets/94137942/867646ff-c221-4549-a3fd-c2544b61d402)
 
 
-Type IP Config  <br/>
-
+Type "ipconfig"  <br/>
+![ipconfig](https://github.com/jasondasho/Find-IP-Lab/assets/94137942/da96713d-477b-474e-8030-4574e4e608f4)
 
 </p>
 
