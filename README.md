@@ -1,7 +1,7 @@
 <h1>How To Find An IP Address</h1>
 
 <h2>Description</h2>
-Project consists of a simple command line script that walks the user through identfying a Windows IP address on a LAN.<br />
+Project consists of a simple command line script that walks the user through identfying a Windows IP address.<br />
 
 
 <h2>Languages and Utilities Used</h2>
