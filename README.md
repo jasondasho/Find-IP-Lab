@@ -17,16 +17,10 @@ Project consists of a simple command line script that walks the user through ide
 <p align="center">
 
 ![](https://github.com/jasondasho/Find-IP-Lab/assets/94137942/867646ff-c221-4549-a3fd-c2544b61d402)
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
+
+Type IP Config  <br/>
+
 
 </p>
 
