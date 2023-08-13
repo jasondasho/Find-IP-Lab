@@ -15,8 +15,8 @@ Project consists of a simple command line script that walks the user through ide
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/mVNDL9x" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![](https://github.com/jasondasho/Find-IP-Lab/assets/94137942/867646ff-c221-4549-a3fd-c2544b61d402)
 <br />
 <br />
 Select the disk:  <br/>
